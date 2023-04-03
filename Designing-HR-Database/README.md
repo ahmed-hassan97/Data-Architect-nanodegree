@@ -18,6 +18,7 @@ As such, the HR department has tasked you, as the new data architect, to design 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Dataset
 
+[link dataset](https://video.udacity-data.com/topher/2020/July/5f21c380_hr-dataset/hr-dataset.csv)
 The HR dataset you will be working with is an Excel workbook consisting of 206 records, with eleven columns. The data is in human-readable format and has not been normalized at all. The data lists the names of employees at Tech ABC Corp, as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
