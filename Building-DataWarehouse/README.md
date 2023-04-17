@@ -9,10 +9,10 @@ You are provided with historical sales data for 45 stores located in different r
 
 Within the Excel Sheet, there are 3 Tabs – Stores, Features and Sales
 
-Stores
+* Stores
 Anonymized information about the 45 stores, indicating the type and size of store
 
-Features
+* Features
 Contains additional data related to the store, department, and regional activity for the given dates.
 
 ## Stores
